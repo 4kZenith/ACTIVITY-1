@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <head>
    <title>INTRODUCTION</title>
-   <h6>Christ and Ulric</h6>
+   <h1>Christ and Ulric</h1>
 </head>
 <body>
    
